@@ -1,7 +1,7 @@
 # DH Elective Project Evaluation
-Catherine Addington
-SPAN 7040: Translation (Pellón) / [DH Certificate](https://dh.virginia.edu/certificate) Elective (Mapp)
-April 30, 2019
+###### Catherine Addington  
+###### SPAN 7040: Translation (Pellón) / [DH Certificate](https://dh.virginia.edu/certificate) Elective (Mapp)  
+###### April 30, 2019
 
 As agreed upon in our [DH Elective Agreement](https://github.com/caddington11/Ximenez/blob/master/DH%20Elective%20Agreement.pdf), I completed an English translation of a Spanish text between 3,750 and 5,000 words (_Escolios a las historias de el origen de los indios_), encoded the translation according to [TEI (Text Encoding Initiative)](https://tei-c.org/guidelines/customization/lite/) standards, and [published the translation online](https://caddington11.github.io/Ximenez/).
 
