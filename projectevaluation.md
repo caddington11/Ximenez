@@ -1,40 +1,29 @@
-
-
-
+#DH Elective Project Evaluation
 Catherine Addington
-SPAN 7040: Translation (Pellón) / DH Certificate Elective (Mapp)
+SPAN 7040: Translation (Pellón) / [DH Certificate](https://dh.virginia.edu/certificate) Elective (Mapp)
 April 30, 2019
 
-DH Elective Project Evaluation
-https://caddington11.github.io/Ximenez/
-
-As agreed upon in our DH Elective Agreement, I completed an English translation of a Spanish text between 3,750 and 5,000 words (Escolios a las historias de el origen de los indios), encoded the translation according to TEI (Text Encoding Initiative) standards, and published the translation online.
+As agreed upon in our [DH Elective Agreement](https://github.com/caddington11/Ximenez/blob/master/DH%20Elective%20Agreement.pdf), I completed an English translation of a Spanish text between 3,750 and 5,000 words (_Escolios a las historias de el origen de los indios_), encoded the translation according to [TEI (Text Encoding Initiative)](https://tei-c.org/guidelines/customization/lite/) standards, and [published the translation online](https://caddington11.github.io/Ximenez/).
 
 The project timeline reveals the final product’s major weakness, which was insufficient time allocated for troubleshooting and consulting with experts. I left the most difficult task—migrating the edition to independent hosting—to the end, and as a result, I had to attempt it on my own. While the source files testify to the many hours of intense effort dedicated to creating a painstaking TEI transcription, translation, and notes, as well as identifying the correct tool and template for the job, ultimately the project fell short of the published edition that I had hoped to produce.
 
 That said, this elective project was extremely valuable in both personal and professional terms. Personally, I learned a hard lesson about project design, time management, and the pitfalls of attempting to go it alone. Professionally, I expanded my TEI skills, gained familiarity with a variety of TEI visualization tools, profoundly improved my understanding of this text, and laid the intellectual, critical, and bibliographical groundwork for my first dissertation chapter.
 
+##Project Timeline
+- **January 24, 2019**: Project approved by translation professor (Pellón).
+- **January 28, 2019**: Project approved by certificate director (Mapp).
+- **March 7, 2019**: 250-word sample of translation turned in.
+- **March 21, 2019**: Sample returned with professor’s comments.
+- **Week of March 24, 2019**: Revise and finish first paragraph translation (“níay gente mas codíçíosa, y desdíchada ... y q'no los maltrate”), 409 words. Finish second paragraph translation (“Yo bíen entíendo...el díuíno acatamíento”), 363 words.
+- **Week of March 31, 2019**: Finish third paragraph translation (“Yo me he llegado...desu Díuína Mag.”), 1474 words and fourth paragraph translation (“Nímenos anadíe... se suele rastrear algo.”), 466 words.
+- **Week of April 7, 2019**: Revise translation, write introduction, finish notes, and compile works cited. Project design: settle on three-layer format (diplomatic transcription, annotated English translation, facsimile). Revise TEI of transcription layer to accommodate page divisions without paragraph breaks. Locate facsimile files. Begin TEI of translation layer.
+- **Week of April 14, 2019**: Finish TEI of translation layer. Failed attempt to publish TEI using [Edition Visualization Technology](http://evt.labcd.unipi.it). Research alternative visualization options.
+- **Week of April 21, 2019**: Redo TEI of translation layer to fit transcription, translation, and notes all in one XML file. Successful attempt to test publication using [TEI Publisher](http://teipublisher.com). Failed attempt to host publication on independent domain.
+- **Week of April 28, 2019**: Write project evaluation, including timeline and DH value. Push all project files to GitHub, both finalized and in-progress.
 
+##Project Value
+While the project’s DH value is limited in terms of its contribution to the field until fully realized, its value for my own DH progress has been substantial. In combination with my participation in the [Praxis Program](http://praxis.scholarslab.org) and the Introduction to Digital Humanities course, this semester constituted an intense DH immersion for me. Thanks to these complementary experiences, the dead end I have reached in my own independent attempt to publish this TEI edition is not a true dead end. I know exactly where to turn for help at the Scholars' Lab, and what kind of funding and training sources are available in the DH community in and beyond UVa.
 
-While the project’s DH value is limited in terms of its contribution to the field until fully realized, its value for my own DH progress has
+Moreover, the experience of applying TEI standards to this translation—and revising my encoding of the transcription to better suit my needs, rather than those of the original [Multepal](https://multepal.spanitalport.virginia.edu) project for which it was designed—deepened both my understanding of encoding itself and of this particular text. The problem of how to encode this text, with its multi-page paragraphs and other challenges to traditional text-encoding hierarchies, is one that the team struggled with from the beginning. Problem-solving with page breaks and anchoring the "zones" represented by each facsimile page totally reoriented my fluency with TEI, working to create a template that served my needs rather than working within a template given to me in class. While my failed attempts to visualize the final TEI product were frustrating, I quickly gained an appreciation for the basic landscape of the field on this issue. Working through some aspects of the [Women Writers Project](https://www.wwp.northeastern.edu/outreach/resources/transformation.html) tutorials on this issue, attempting both the [first and second releases of Edition Visualization Technology](http://evt.labcd.unipi.it), and [ultimately settling on TEI Publisher](http://teipublisher.com) (which itself required learning about [Exist-DB](http://exist-db.org) and local hosting) helped me articulate my project design needs and identify the extent of my skillset. Going forward, I will definitely allocate more time for the publishing phase, rather than using all of my project timeframe to write and encode site content. TEI and criticism are both skill sets I feel comfortable with at this point, but turning that into a published edition is still something I want to work on.
 
-Write 1-page evaluation of project’s process, methodology, and DH value.
-
-January 24, 2019: Project approved by professor (Pellón).
-January 28, 2019: Project approved by certificate director (Mapp).
-
-March 7, 2019: 250-word sample of translation turned in.
-
-March 21, 2019: Sample returned with professor’s comments.
-
-Week of March 24: Revise and finish first paragraph translation (“níay gente mas codíçíosa, y desdíchada ... y q'no los maltrate”), 409 words. Finish second paragraph translation (“Yo bíen entíendo...el díuíno acatamíento”), 363 words.
-
-Week of March 31: Finish third paragraph translation (“Yo me he llegado...desu Díuína Mag.”), 1474 words and fourth paragraph translation (“Nímenos anadíe... se suele rastrear algo.”), 466 words.
-
-Week of April 7: Revise translation, write introduction, finish notes, and compile works cited. Project design: settle on three-layer format (diplomatic transcription, annotated English translation, facsimile). Revise TEI of transcription layer, locate facsimile files, begin TEI of translation layer.
-
-Week of April 14: Finish TEI of translation layer. Failed attempt to publish TEI using Edition Visualization Technology (http://evt.labcd.unipi.it).
-
-Week of April 21: Redo TEI of translation layer to fit transcription, translation, and notes all in one XML file. Successful attempt to test publication using TEI Publisher (http://teipublisher.com). Failed attempt to host publication on independent domain.
-
-Week of April 28: Write 1-page evaluation of project’s process and methodology, the DH value of the project, and the project timeline. Pushed work-in-progress files to GitHub.
+The project's ultimate value for me has been the dramatic improvement in my understanding of and familiarity with this primary source. Looking ahead toward my final year of coursework, second round of comprehensive exams, and dissertation proposal phase, it has been tempting to let research go by the wayside in the face of these daunting institutional milestones. Through this project, I was able to do hyperclose reading and bibliographical and critical analysis on this foundational text that first sparked my interest in the area where I now specialize—Catholic missionary writing in the early modern Spanish empire. In addition to the intellectual priorities I lay out in my [translator's introduction](https://github.com/caddington11/Ximenez/blob/master/ProloguePrintEdition/Escolios%20-%20Xim%C3%A9nez%20-%20Addington%20translation.pdf), I feel strongly that this project's value will continue to be realized throughout my research on Ximénez and the Indigenous communities who shaped his work and were affected by it in return.
