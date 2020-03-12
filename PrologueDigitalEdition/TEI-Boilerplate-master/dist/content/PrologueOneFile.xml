@@ -1,0 +1,482 @@
+<!-- Last Changed Date: 2020-03-12 (Thu, 12 Mar 2020)--><!--Licensed under Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)-->
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <fileDesc>
+            <titleStmt>
+                <title>Prologue, Scholia to the Stories of the Origin of the Indians</title>
+                <author>Francisco Ximénez</author>
+                <editor>Catherine Addington</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name target="http://multepal.spanitalport.virginia.edu">Multepal Project</name>
+                    <pubPlace>University of Virginia, Charlottesville, Virginia, USA</pubPlace>
+                </publisher>
+                <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+                    <p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</p>
+                </licence>
+                <ptr target="https://library.osu.edu/projects/popolwuj"/>
+            </publicationStmt>
+            <sourceDesc>
+              <p>An encoded diplomatic transcription and English translation of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folios 01 to 03, recto and verso. Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwuj.</p>
+            <note type="sourceStatus" xml:id="sourceStatus">
+                <p>Original manuscript</p></note>
+            <note type="location" xml:id="location">
+                <p>Chicago, Newberry Library, Ayer MS 1515: Arte de las tres lenguas kakchiquel, quiché y tzutuhil, v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</p></note>
+            <note type="date" xml:id="date">
+                <p>The <hi rend="ital">Escolios</hi> were most likely written between 1701 and 1703, early in Ximénez's tenure in Chichicastenango (1701–1714). See Carlos M. López, “The Popol Wuj in Ayer MS 1515 Is a Holograph by Father Ximénez,” <hi rend="ital">Latin American Indian Literatures Journal</hi> 23.2 (September 2007): 112-141.</p></note>
+            <note type="additionalDetail" xml:id="additionalDetail">
+                <p>The <hi rend="ital">Popol Wuj</hi> tells the story of the K’iche’ Maya people from creation to sixteenth-century Spanish contact, including the famous tale of the Hero Twins Junajpu and Ixbalanke’. Based on an unknown K’iche’ source, the manuscript copy and Spanish translation made by Dominican missionary friar Francisco Ximénez (1666–c. 1729) remains the only written alphabetic source for the <hi rend="ital">Popol Wuj</hi>, though the stories it contains are also found in oral tradition and glyphic representations.</p>
+                <p>The copy is contained in a longer manuscript by Ximénez that served as a kind of textbook for his fellow Dominican friars, including catechisms, prayers, and sacramental rites in various Maya languages alongside materials for the study of those languages. This manuscript, alternatively known by its call number at Chicago’s Newberry Library (Ayer MS 1515) and by the title of the linguistic study that comprises its first section (Arte de las tres lenguas kakchiquel, quiché y tzutuhil), instructs friars on best practices for the evangelization of the Guatemalan highlands. To that end, Ximénez included the stories we now call the <hi rend="ital">Popol Wuj</hi>, annotating it to highlight similarities and differences between Maya religious beliefs and Christian ones for his fellow friars.</p>
+                <p>His scholia to the <hi rend="ital">Popol Wuj</hi>, and particularly the prologue he appended to them, make clear his editorial agenda in compiling his edition of the text: he designed it as a tool for extirpation of Maya belief and inculcation of Catholic doctrine. This framing complicates the general scholarly narrative surrounding the <hi rend="ital">Popol Wuj</hi>, which has historically treated the work as a source for “pure” pre-contact Maya mythology. This edition of the Prologue aims to contribute toward the recontextualization of this artifact, acknowledging that Ximénez’s ethnographic work among the K’iche’ is inextricable from his interpretive lens as a friar participating in his order’s evangelization campaign in the Guatemalan highlands (see Quiroa 468).</p>
+                <p>While Ximénez’s irregular K’iche’ orthography has been preserved, this edition observes the standards set by the Academia de las Lenguas Mayas de Guatemala, in keeping with the practices of the <ref target="http://multepal.spanitalport.virginia.edu">Multepal Project at the University of Virginia</ref>.</p></note>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="myn">K'iche'</language>
+                <language ident="lat">Latin</language>
+                <language ident="nah">Nahuatl</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+<!--COME BACK TO FACSIMILE--><facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <surface n="1r" xml:id="surf-pb-1r">            
+        <zone xml:id="zone-pb-1r-1">
+            <graphic mimeType="image/jpeg" url="https://raw.githubusercontent.com/caddington11/Ximenez/master/PrologueDigitalEdition/image/1r.jpg" width="380px" rend="facstab"/></zone></surface>
+    <surface n="1v" xml:id="surf-pb-1v">            
+        <zone xml:id="zone-pb-1v-2">
+            <graphic mimeType="image/jpeg" url="https://raw.githubusercontent.com/caddington11/Ximenez/master/PrologueDigitalEdition/image/1v.jpg" width="380px" rend="facstab"/></zone></surface>
+    <surface n="2r" xml:id="surf-pb-2r">            
+        <zone xml:id="zone-pb-2r-3">
+            <graphic mimeType="image/jpeg" url="https://raw.githubusercontent.com/caddington11/Ximenez/master/PrologueDigitalEdition/image/2r.jpg" width="380px" rend="facstab"/></zone></surface>
+    <surface n="2v" xml:id="surf-pb-2v">            
+        <zone xml:id="zone-pb-2v-4">
+            <graphic mimeType="image/jpeg" url="https://raw.githubusercontent.com/caddington11/Ximenez/master/PrologueDigitalEdition/image/2v.jpg" width="380px" rend="facstab"/></zone></surface>
+    <surface n="3r" xml:id="surf-pb-3r">            
+        <zone xml:id="zone-pb-3r-5">
+            <graphic mimeType="image/jpeg" url="https://raw.githubusercontent.com/caddington11/Ximenez/master/PrologueDigitalEdition/image/5r.jpg" width="380px" rend="facstab"/></zone></surface>
+    <surface n="3v" xml:id="surf-pb-3v">            
+        <zone xml:id="zone-pb-3v-6">
+            <graphic mimeType="image/jpeg" url="https://raw.githubusercontent.com/caddington11/Ximenez/master/PrologueDigitalEdition/image/3v.jpg" width="380px" rend="facstab"/>
+        </zone></surface></facsimile>
+<text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<body>
+<div type="original">
+    <pb f="1r" n="1" xml:id="pb-orig-1r-1" facs="#zone-pb-1r-1"/>
+        <docTitle rend="center">
+            <hi rend="bold"><lb n="1"/>E<hi rend="superscript">S</hi>COLÍOS ALAS HÍS</hi>
+            <lb n="2" break="no"/>TORÍAS DEEL ORÍGEN DE LOS ÍNDÍOS
+            <lb n="3"/>ESCOLÍADAS POR
+            <lb n="4"/>EL
+            <hi rend="bold"><lb n="5"/>R.P.F.FRANZÍSCO XI -
+            <lb n="6" break="no"/>MENEZ</hi>
+            <lb n="7"/>CVRA DOCTRÍNERO POR EL REALPATRO -
+            <lb n="8" break="no"/>NATO DEL PVEBLO DE <abbr>S<hi rend="superscript">TO.</hi></abbr> THOMAS CHÍ -
+            <lb n="9" break="no"/>CHÍCASTENANGO DEL SAGRADO OR -
+            <lb n="10" break="no"/>DEN DE PRÆDÍCADORES PARA MA -
+            <lb n="11" break="no"/>YOR NOTÍCÍA ALOS MÍNÍSTROS
+            <lb n="12"/>DE LAS <abbr>COS.</abbr> DE LOS ÍNDÍOS</docTitle>
+        <head rend="center">PROLOGO.</head>
+        <ab>
+            <lb n="1"/><hi rend="bold">C</hi>osa es cíerta, y auerígua da entre to dos los <abbr>q'</abbr>conocen ín díos, <abbr>q'es</abbr> la -
+            <lb n="2"/>gente más írre gular ensus cosas, <abbr>q'</abbr>se ha descubíerto en toda la redondez 
+            <lb n="3"/>de la tíerra, y así muchos hombres de buen talento, ça da día seuen de salínados
+            <lb n="4"/>con sus cosas, pues quando les pareze <abbr>q'</abbr>ya estan al cabo de el conoçímíento de quí - 
+            <lb n="5" break="no"/>enes son los índíos, sehallan tan en los príncípíos de su conoçímíento, y compre -
+            <lb n="6" break="no"/>hensíon, <abbr>q'</abbr>todo lo <abbr>q'</abbr>han adquíro con su estudío, y cuída do para mejor po derlos
+            <lb n="7"/>gouernar noles sírue, ya enlos casos, <abbr>q'</abbr>de nuevo se offreçen. muchos ha auído
+            <lb n="8"/><abbr>q'</abbr>han querído dar aentender el conoçímíento de elíndío en sus escrítos, de
+            <lb n="9"/>hístorías, y sumas, y otros escrítos; pero píenso <abbr>q'</abbr>les ha sucedído lo<abbr>q'</abbr>a mí, me
+            <lb n="10"/>sucedera entodos mís escrítos, <abbr>q'</abbr><abbr>aunq'</abbr> he procurado dar a entender lo <abbr>qu'</abbr>ellos
+            <lb n="11"/>son, alca bo píenso <abbr>q'</abbr>no aure dícho nada. el Doctor <abbr>P<hi rend="superscript">o</hi>.</abbr> Apíano cosmografo 
+            <lb n="12"/>de el emperador carlos quínto de marcando la ísla española, los quiere
+            <lb n="13"/>dar acononocer al mundo dícíendo: <abbr>q'</abbr>son gente: índando líberalíssímí, ín
+            <lb n="14"/>accípíendo cupídíssímí en el dar muy líberales, en el recíbír muy codícíosos, y <abbr>q'</abbr>
+            <lb n="15"/>consumen todo Un día dando bueltas a un palo. algo díxo en esto, declaro en
+            <lb n="16"/>parte la natural ínclínaçíon de el índío, <abbr>q'</abbr> endar dudo <abbr>q'</abbr>a ya quíen sea mas lí -
+            <lb n="17" break="no"/>beral en dar, pues quíen abra <abbr>q'</abbr>no este todo poseído de Díos <abbr>q'</abbr>teníendo solo, Un me -
+    <pb f="1v" n="2" xml:id="pb-orig-1v-2" facs="#zone-pb-1v-2"/>
+            <lb n="18" break="no"/>dío real, sín esperanza deotro <abbr>q'</abbr>este en extrema neçesídad aun de el sustento ne -
+            <lb n="19" break="no"/>çesarío <abbr>q'</abbr>lo de con mas líberalídad <abbr>q'</abbr>elíndío lo da. y en sus festejos y funçíones
+            <lb n="20"/>se ue <abbr>q'</abbr>níteníendo apenas <abbr>p<hi rend="superscript">a</hi></abbr>. elsustento los çelebra con bastantes gastos, y
+            <lb n="21"/>con tantos como otro <abbr>q<hi rend="superscript">e</hi></abbr>se halle descansado, y con bastante posíble los çelebra, em -
+            <lb n="22" break="no"/>peñandose, y entrampandose, para poder haçer estas sus çelebraçíones de
+            <lb n="23"/>bautísmos, y casamíentos. níay gente mas codíçíosa, y desdíchada, pues combí -
+            <lb n= "24" break="no"/>dandose ellos Unos a otros ensus fíestas, y des de Un pueblo, a otro en sus festíuída -
+            <lb n="25" break="no"/>des, selehade corresponder con lo mesmo numero, y espeçíe <abbr>q'</abbr>el dío al otro <abbr>q<hi rend="superscript">do</hi></abbr>
+            <lb n="26"/>fue su combídado. y solo Un plantano menos, <abbr>q'</abbr> sele corresponda, es matería de
+            <lb n="27"/>tanto sentímíento, <abbr>q'</abbr>por aquello solo se acaba la amístad, y correspond<corr>en</corr>çía de
+            <lb n="28"/>muchos años. para esto <abbr>q'</abbr>díxo Apíano fue Un rasgo solo, del conoçímí -
+            <lb n="29" break="no"/>ento de los índios. así me pareçe <abbr>q'</abbr>el mas açer rado moda para dar a
+            <lb n="30"/>conocer quíenes son los índíos, y su mayor comprehensíon, lo <abbr>q'</abbr> muchos hombres
+            <lb n="31"/>de buen talento han dícho, <abbr>q'</abbr> para dífínír los índíos con dífíníçíon adequada
+            <lb n="32"/>es defíníendolos por contradíctorías. <abbr>porq'</abbr> es gente <abbr>q'</abbr>todo es extremos, y todos
+            <lb n="33"/>contraríos, y opuestos. al mesmo motodo de lo <abbr>q'</abbr>díxo Apíano. y prosíguíendo a
+            <lb n="34" break="no"/>quello dígo. <abbr>q'</abbr>es gente: en eltrabaxo fortíssímos, en notrabaxar, perezosísí -
+            <lb n="35" break="no"/>mos, en comer Voraçíssímos, en no comer parcíssímos. en sus bíen es ríquíssímos,
+            <lb n="36"/>y suma mente pobríssímos. y así de to das las demas cosas suyas, y todo esto tan
+            <lb n="37"/>general, <abbr>q'</abbr>lo mesmo es Uno <abbr>q'</abbr>otro, el ríco, y el pobre, el <abbr>q'</abbr>es cazíque, ó prínçípal
+            <lb n="38"/>como el mazegual. todos son íguales, y tan aníñados Unos como otros. y así
+            <lb n="39"/>díxo bíen el<abbr>q'</abbr>los llamo: níños, con barbas. y ala Verdad ellos son como mucha -
+            <lb n="40" break="no"/>chos en todo. como <abbr>S.</abbr> Pablo deçía de sí de su hedad pueríl, así estos todo escosa de
+            <lb n="41"/>muchachos por lo qual no son sus malíçías de tanto peso como lo son las de otros hom -
+            <lb n="42" break="no"/>bres de otras naçíones, y aun <abbr>q'</abbr>algunos dígan como díze <abbr>N.</abbr> <abbr>P<hi rend="superscript">e.</hi></abbr> Noreña en su
+            <lb n="43"/>carta <abbr>q'</abbr>alcançan grandes malícías, de <corr><abbr>q'</abbr></corr>no ay duda, dígo <abbr>q'</abbr>como Díos <abbr>N. S<hi rend="superscript">or</hi>.</abbr>
+            <lb n="44"/>suplío en los brutos con elínstínto natural lo <abbr>q'</abbr>les faltaba de talento para su
+            <lb n="45"/>conseruaçíon, así en estos, les suplío de ínstínto <abbr>q'</abbr>mas se puede llamar así su sa -
+            <lb n="46" break="no"/>ber <abbr>q'</abbr>entendímíento, <abbr>loq'</abbr>de este les faltaba para su conseruaçíon, <abbr>porq'</abbr> de no ya
+            <lb n="47"/>me parece <abbr>q'</abbr>Ubíeran acabado con ellos todos los <abbr>q'</abbr>tíran a su destrucçíon, y aca -
+            <lb n="48" break="no"/>ba míento Valíendose de su míssería para fener atreuímíento alo<abbr>q'</abbr> no se atre -
+            <lb n="49" break="no"/>uíeran no dígo yo a otros superíores suyos pero ní a otros su íguales. haçíendo -
+            <lb n="50"/>se todos con estos míssarables sabíos, los ígnorantes, Valientes, los floxos, poderosos
+            <lb n="51"/>los <abbr>q'</abbr> nada pueden, <abbr>h'</abbr>randole alcodíllo como agente desvalída. pues no y negro
+            <lb n="52"/>esclauo <abbr>q'</abbr>no se les atreua, y <abbr>q'</abbr>no los maltrate.
+        </ab>
+        <ab rend="indent">
+            <lb n="1"/>Yo bíen entíendo, <abbr>q'</abbr> todas estas hístorías son quentos de muchachos, <abbr>q'</abbr>nítíenen
+            <lb n="2"/>píes ní cabeza; pero <abbr>aunq'</abbr>este es el juíçío <abbr>q'</abbr>nosotros hemos de haçer de ellas
+            <lb n="3"/>por lo <abbr>q'</abbr>a nosotros toca, no se deuen así juzgar respecto de ellos <abbr>q'</abbr>como proporçí -
+            <lb n="4" break="no"/>onados asus talentos, son tan verdades estas para ellos, como <abbr>p<hi rend="superscript">a</hi>.</abbr> nosotros los cha -
+            <lb n="5" break="no"/>tolícos las Verdades euangelícas. ní Vale Verlas contradícçíones <abbr>q'</abbr>en sí embu -
+            <lb n="6" break="no"/>elben, <abbr>q'</abbr>con la cortedad de su talento no reparan en esto. y aquí se conoçe la malí -
+            <lb n="7" break="no"/>çía de la bestía ínfernal, como les sugírío mentíras tan adequadas asus talentos <abbr>p<hi rend="superscript">a</hi></abbr>
+            <lb n="8"/>mas tenerlos embaucados, y como quíera <abbr>q'</abbr>no solamente en estas hístorías se
+            <lb n="9"/>hallen solo estas mentíras, o químeras, síno tambíen nuestras Verdades chatolí -
+            <lb n="10" break="no"/>cas, y <abbr>q'</abbr>tíene, y cree nuestra <abbr>S<hi rend="superscript">ta</hi>.</abbr> fee chatolíca, reveladas por el espírítu <abbr>S<hi rend="superscript">to</hi>.</abbr> en la
+            <lb n="11"/>sagrada escrítura, deay es, <abbr>q'</abbr>no se deue haçer tampoco caso de estas hístorías
+            <lb n="12"/>respecto de la mucha tierra <abbr>q'</abbr>el demonío gana entre esta gente; con estos herrores
+    <pb f="2r" n="3" xml:id="pb-orig-2r-3" facs="#zone-pb-2r-3"/>
+            <lb n="13"/><abbr>q'</abbr>entre ellos tíene sembrados, desde el tíempo dela gentílídad. yo consídero esta
+            <lb n="14"/>mala semílla, y zizaña <abbr>q'</abbr>el demonío ha sembrado entre ellos a la grama, en las
+            <lb n="15"/>viñas, esta yerua como todos saben esta destrucçíon de las Vídes, y no obstan
+            <lb n="16" break="no"/>te sabíendo esto les Víñadores, contentanse con arrancar la <abbr>q'</abbr>Ven, y no aduíer -
+            <lb n="17" break="no"/>ten <abbr>q'</abbr>Va cundíendo, en lo oculto, y quando menos se píensan hallan perdída
+            <lb n="18"/>su Viña, y sín remedío, <abbr>porq'</abbr> <abbr>aunq'</abbr> han Vísto algunos retoños, <abbr>q'</abbr>asoman les 
+            <lb n="19"/>pareçe cosa tenua, y <abbr>q'</abbr> no hara daño, no occurríendo con tíempo al daño, despues
+            <lb n="20"/>se haze írremedíable. así mesmo entíendo suçede con estos índíos, y sus herrores
+            <lb n="21"/>con esta mala semílla, y zizaña <abbr>q'</abbr>eldemonío dexo sembrados entre ellos de estas
+            <lb n="22"/>hístorías de su orígen. <abbr>q'</abbr>oyendo cada día, y Víendo por sus ojos todos los retoños
+            <lb n="23"/>assomar delas superítíçíones <abbr>q'</abbr>tíenen, los mas lotoman a casa de quentos, y rísa.
+            <lb n="24"/>sin reparar en el orígen y raíz de <abbr>ado</abbr> proceden, para procurar al remedío
+            <lb n="25"/>con tíempo. es nuestro Díos, muy zelador de su honrra, y culto, y no permíte
+            <lb n="26"/>compañía en sus adoraçíones, y así <abbr>aunq'</abbr> nos parezca cosa de poca monta
+            <lb n="27"/>es cosa de mucho peso en el díuíno acatamíento.
+        </ab>
+        <ab rend="indent">
+            <lb n="1"/>Yo me he llegado a persuadír víendo nuestras verdades catolícas embueltas en
+            <lb n="2"/>estos desatínos, lo Uno alo<abbr>q'</abbr> <del rend="strikethrough">n</del>díçe el <abbr>N<hi rend="superscript">e.</hi></abbr> <abbr>P<hi rend="superscript">e</hi>.</abbr> <abbr>fr.</abbr> Domíngo de Víco en el cap. <num>101</num>. 
+            <lb n="3"/>de la segunda parte de su <foreign xml:lang="la">theología índorum</foreign> a<abbr>q'</abbr> estos índíos desçíenden
+            <lb n="4"/>de las díez tríbus <abbr>q'</abbr>se perdíeron de los judíos, y <abbr>q'</abbr>no bolbíeron a su patría, y así
+            <lb n="5"/>conseruaron por tradíçíones todos los suçesos <abbr>q'</abbr>nos refíere el sagrado texto
+            <lb n="6"/>y el demonío selos fue embolbíendo en muchíssímos herrores. y lo otro, a<abbr>q'</abbr>deno
+            <lb n="7"/>ser así <abbr>q'</abbr>desçíenden de aquellas díez tríbus. el demonío como tan sabío, al
+            <lb n="8" break="no"/>cançando por algunas congeturas la venída de el <abbr>S<hi rend="superscript">to</hi>.</abbr> Evangelío a estas par -
+            <lb n="9" break="no"/>tes, les sugíría estas mentíras embueltas en muchas Verdades catolícas de las
+            <lb n="10"/><abbr>q'</abbr>nos enseño el espírítu <abbr>S<hi rend="superscript">to</hi>.</abbr> en la sagrada escríptura, confín de <abbr>q'</abbr> oyendo los
+            <lb n="11"/>índíos lo <abbr>q'</abbr> auían de enseñar los mínístros del <abbr>S<hi rend="superscript">to</hi>.</abbr> Evangelío de Díos, y sus
+            <lb n="12"/>obras, de la encarnaçíon de el Verbo, de <abbr>M<hi rend="superscript">a</hi>.</abbr> <abbr>SS<hi rend="superscript">ma</hi>.</abbr> y los demas sanctos mas
+            <lb n="13"/>se arraígasen en sus herrores pensando: <abbr>q'</abbr>aquello <abbr>q'</abbr>seles enseñaba era lo mes -
+            <lb n="14" break="no"/>mo en todo <abbr>q'</abbr> lo <abbr>q'</abbr>ya ellos sabían de el demonío por voca de sus saçerdotes. y así
+            <lb n="15"/>se uio por el effecto luego, en eherror <abbr>q'</abbr>se levanto en este Reyno de <abbr>Gualt<hi rend="superscript">a</hi></abbr> reçí -
+            <lb n="16"/>en conquístado esto, <abbr>q'</abbr>todos abrazaron luego, <abbr>q'</abbr><rs ana="JUNAJPU">hun ahpu</rs> era Díos, el <abbr>q'</abbr>les pre 
+            <lb n="17" break="no"/>dícaban. y <rs ana="JUN_JUNAJPU">hun hunahpu</rs> <foreign xml:lang="la">erat fílíus Deí</foreign>. y xuchínqueꜩalí, <abbr>q'</abbr>es la <abbr>q'</abbr>en esta len
+            <lb n="18" break="no"/>gua llaman <rs ana="IXKIK">Xquíc</rs> era <abbr>M<hi rend="superscript">a</hi>.</abbr> <abbr>SS<hi rend="superscript">ma</hi>.</abbr> y <abbr>q'</abbr><rs ana="WAJXAQIB_KAM">Vahxaquícat</rs> era <abbr>S.</abbr><abbr>Ju<hi rend="superscript">o</hi>.</abbr> Baptísta. y <abbr>q'</abbr>: hun -
+            <lb n="19" break="no"/>tíhax era <abbr>S.</abbr>Pablo Apostol se pareçía a los dísparatos, <abbr>q'</abbr>ellos ya tenían 
+            <lb n="20"/>sabídos de Voca de el demonío, era façíl a el persuadír los a ellos. y como quíera
+            <lb n="21"/><abbr>q'</abbr>ellos sean tan íncredulos, y desconfíados delo <abbr>q'</abbr>los Padres le<add place="above">s</add> díçen, de ay es: <abbr>q'</abbr>no -
+            <lb n="22"/>se <abbr>q'</abbr>asíentan totalmente a nuestras Verdades catolícas. <abbr>porq'</abbr> son de esa calídad 
+            <lb n="23"/>los índíos, <abbr>q'</abbr>como selo díga otro índío como ellos, no ay cosa mas çíerta <abbr>p<hi rend="superscript">a</hi>.</abbr> ellos, pero 
+            <lb n="24"/>sí se lo díçe el <abbr>P<hi rend="superscript">e</hi>.</abbr> o el español a quíenes tíenen total auersíon no ay remedío de
+            <lb n="25"/>asentír a lo<abbr>q'</abbr> seles díce, y sí haçen en la aparíençía <abbr>q'</abbr>asíenten, mas es por temor,
+            <lb n="26"/><abbr>q'</abbr>por otro motívo alguno. en esta matería, son defectuossímos, nuestros híjos los ín
+            <lb n="27" break="no"/>díos, y siempre estan con dos corazones tocante alo<abbr>q'</abbr>seles díçe; Veraslos con mucho 
+            <lb n="28"/>cuídado acudír a la yglesía mas en días <abbr>q'</abbr>ellos celebran, <abbr>q'</abbr>en los días de pre -
+            <lb n="29" break="no"/>çepto, y es el caso <abbr>q'</abbr>les llena mucho mas <abbr>q'</abbr>la devoçíon la concurrençía <abbr>q'</abbr>en
+            <lb n="30" break="no"/>tonçes ay de atambores, y trompetas, y ruído de campanas, <abbr>porq'</abbr> son ínclína
+            <lb n="31" break="no"/>díssímos a la bulla, y sî ay tun, ó bayle en <abbr>q'</abbr>se representa alguna bobería
+    <pb f="2v" n="4" xml:id="pb-orig-2v-4" facs="#zone-pb-2v-4"/>
+            <lb n="32"/>o alguna antíguaíla delas suyas, y de su gentílídad lo<abbr>q'</abbr> yo dígo, y me lo
+            <lb n="33"/>aconsejo así un Relígíoso docto, y de exemplar vída, <abbr>q'</abbr>auía gastado mu
+            <lb n="34" break="no"/>chos <abbr>aS.</abbr> admínístrando índíos <abbr>q'</abbr> murío ya decrepíto llamado el <abbr>R.</abbr> <abbr>P<hi rend="superscript">e</hi></abbr> 
+            <lb n="35"/><abbr>fr</abbr>-<abbr>Ju<hi rend="superscript">o</hi></abbr>-de <abbr>S.</abbr> Joseph demí sagrado hauíto, es <abbr>q'</abbr>estos ínstrumentos de <abbr>q'</abbr> vian 
+            <lb n="36"/>como es eltun, y la caxa grande <abbr>q'</abbr>llaman cohom. ó, nímacohom. tíenen
+            <lb n="37"/>pacto con el demonío, en díchos ínstrumentos, y segun son ellos de fune -
+            <lb n="38" break="no"/>bres solo el demonío puede ser el autor de tales ínstrumentos; y<abbr>aunq'</abbr>
+            <lb n="39"/>los <abbr>P<hi rend="superscript">es</hi></abbr>. antíguos les díeron çíertas hístorías de <abbr>S<hi rend="superscript">tos</hi>.</abbr> en su lengua <abbr>q'</abbr> cantasen
+            <lb n="40"/>altun, en lugar delas <abbr>q'</abbr>ellos cantaban de su gentílídad, no obstante, yo en -
+            <lb n="41" break="no"/>tíendo <abbr>q'</abbr>eso cantan en lo publíco y donde el <abbr>P<hi rend="superscript">e</hi>.</abbr> los oye; y <abbr>q'</abbr>alla en secreto ha -
+            <lb n="42" break="no"/>çen muy líndas memorías desu gentílídad. de estas cosas, y otras muchíssí -
+            <lb n="43"/>mas <abbr>q'</abbr>han llegado amí notíçía, íntento el formar estos escolíos, a esta su hís -
+            <lb n="44" break="no"/>toría de ellos anotando lo <abbr>q'</abbr> es hístoría antígua, y çítando ala hístoría, <abbr>q'</abbr> que -
+            <lb n="45" break="no"/>da antes puesta. y anotando lo <abbr>q</abbr><hi rend="superscript">y</hi> toca en punto de nuestra <abbr>S<hi rend="superscript">ta</hi>.</abbr> fee catholíca <abbr>p<hi rend="superscript">a</hi></abbr>
+            <lb n="46"/><abbr>q'</abbr>mas comodídad tenga el <abbr>q'</abbr> se quísíere approuechar de este mítrabaxo. ad -
+            <lb n="47" break="no"/>uírtíendo, aquí, y teníendo por cosa çíerta, <abbr>q'</abbr> el díadeo y estan en los mes -
+            <lb n="48" break="no"/>mos herrores, y dísparates, y <abbr>aunq'</abbr> parece <abbr>q'</abbr>no es mas <abbr>q'</abbr>tal, ó, qual çentella
+            <lb n="49"/>de aquel fuego, es mucho elínçendío <abbr>q'</abbr>ay entre ellos. y <abbr>aunq'</abbr> ala verdad pa -
+            <lb n="50" break="no"/>reçera a muchos matería ímposíble arrancar esta zízaña, del todo, no hara
+            <lb n="51"/>poco seruíçío a Díos en procurar arrancar la concontínuo desuelo, y predíca -
+            <lb n="52" break="no"/>çíon, y enseñanza contínua, <abbr>q'</abbr>por nuestra quenta corre solo el desmontar, y plan -
+            <lb n="53" break="no"/>tar, y regar esta sementora dela yglesía, con el ríego de la enseñanza, y
+            <lb n="54"/>por quenta de Díos el íncremento de estas plantas. <abbr>q'</abbr> <abbr>aunq'</abbr>no coja fruto al
+            <lb n="55" break="no"/>guno desu trabaxo, le asseguro muchas coronas de gloría, como no le faltaran
+            <lb n="56"/>al Apostol Santíago, en cuya vígílía esto escríuo, muchas coronas de gloría
+            <lb n="57"/>aun no auíendo podído conuertír ala fee Verdadera mas <abbr>q'</abbr>así ete españoles
+            <lb n="58"/>por su sumo trauajo y desuelo, en su <abbr>off<hi rend="superscript">o</hi>.</abbr> de Apostol. <abbr>porq'</abbr>esde tan superíor ca -
+            <lb n="59" break="no"/>lídad el grano de el <abbr>S<hi rend="superscript">to</hi>.</abbr>Evangelío, <abbr>q'</abbr>dado caso, <abbr>q'</abbr>todo el cayga sobre pí -
+            <lb n="60" break="no"/>edras duras, nunca al sembrador le faltan colmadíssímos frutos desu semen -
+            <lb n="61" break="no"/>tera, lo <abbr>q'</abbr> no tíene otra sementera alguna; <abbr>q'</abbr>sí se píerde todo se píerde, y mas
+            <lb n="62"/>píerde el<abbr>q'</abbr> síendo sembrador de la palabra dívína, se mete asembrador, de
+            <lb n="63"/>el grano terreno. yra anotando mí cortedad todo lo<abbr>q'</abbr> alcançare, tocante
+            <lb n="64"/>a aquesta hístoría, y dando notíçía de muchas cosas de los índíos, no con anímo
+            <lb n="65"/>de <abbr>q'</abbr>vean su barbarídad, y bestíalídad, síno de mo beracompasión de <abbr>q'</abbr>se píer -
+            <lb n="66"/>dan estos <abbr>q'</abbr>son redímídos con la preçíosa sangre de <abbr>Xpt<hi rend="superscript">o</hi>.</abbr> <abbr>V<hi rend="superscript">a</hi>.</abbr> <abbr>N<hi rend="superscript">a</hi>.</abbr> lleuando an
+            <lb n="67" break="no"/>te todas cosas sabído <abbr>q'</abbr>las causas prínçípales de no oluídar en el todo estos
+            <lb n="68"/>dísparates, y auer sentadoles tan mal la fee, fue por auerse plantado en
+            <lb n="69"/>estas partes de la ley de Díos con tantos escandalos, muertes, robos, estruendos
+            <lb n="70"/>y alborotos, y auíendo la reçíuído de míedo de la muerte <abbr>q'</abbr>te mían como lo
+            <lb n="71"/>nota muy bíen el <abbr>íll<hi rend="superscript">mo</hi>.</abbr> y <abbr>N<hi rend="superscript">mo</hi>.</abbr> <abbr>S<hi rend="superscript">or</hi>.</abbr> <abbr>D.</abbr> <abbr>fr.</abbr> Bartolome de las casas, en sus escrítos
+            <lb n="72"/>y dísputas contra el Doctor Sepulueda, y el <abbr>M.R.P.</abbr> Remesal en su hístoría,
+            <lb n="73"/>por mas <abbr>q'</abbr>çíertos hístoríadores modernos lo quíeran sepultar. y despues de
+            <lb n="74"/>tan mal plantada la fee hasído peor regada, pues <abbr>aunq'</abbr> algunos mínístros ze -
+            <lb n="75" break="no"/>losos han procurado arrímar el hombro, luego descaeze con la muerte, o ausen -
+            <lb n="76" break="no"/>çía detales mínístros, <abbr>q'</abbr>cuídaban de dar buen ríego a estas plantas; y tambíen
+            <lb n="77"/><abbr>porq'</abbr> notíenen endonde aprender saltín aquellos <abbr>q'</abbr>saben leer para <abbr>q'</abbr>deellos 
+            <lb n="78"/>se dífundíera alos demas por falta de líbros en su ydíoma <abbr>q'</abbr>tratan de la fee catho -
+    <pb f="3r" n="5" xml:id="pb-orig-3r-5" facs="#zone-pb-3r-5"/>
+            <lb n="79" break="no"/>líca mas<abbr>q'</abbr>las dos partes de su <abbr>th<hi rend="superscript">a</hi>.</abbr> deel <abbr>N<hi rend="superscript">e</hi>.</abbr> <abbr>P<hi rend="superscript">e</hi>.</abbr> <abbr>fr.</abbr> Domíngo de Víco, y el catezísmo
+            <lb n="80"/><abbr>q'</abbr>como no han pasado de manuscríptos, es muy raro el<abbr>q'</abbr>se halla, y tengo por expe
+            <lb n="81" break="no"/>ríençía <abbr>q'</abbr>los índíos <abbr>q'</abbr> han tenído dícha de leerlos han reçíuído mucho bíen en sus al -
+            <lb n="82" break="no"/>mas, <abbr>q'</abbr>sí se vbíeran ímpreso díchos líbros muchos, o todos ubíuran gozado de este
+            <lb n="83"/>bíen; y hasído tal la desgraçía de estos pobres, <abbr>q'</abbr>auíendo consultado tantos díspa -
+            <lb n="84" break="no"/>rates a su Magestad, sus mínístros, y otros <abbr>q'</abbr>no lo son, no ha auído quíen esto lo tome
+            <lb n="85"/>en voca, <abbr>q'</abbr>no dudo de supíedad, y deseo, deel bíen de su Vasallos, y mas de
+            <lb n="86"/>estos, <abbr>q'</abbr>tíene asu cargo como menores, <abbr>q'</abbr>no dudara gastar lo neçesarío en esta
+            <lb n="87"/>obra, para <abbr>q'</abbr>todos gozasen de este bíen. esto era lo <abbr>q'</abbr> auían de consultar, y no <abbr>q'</abbr>apren
+            <lb n="88" break="no"/>díesen la doctrína chrístíana en lengua castellana, como lo han consultado, <abbr>q'</abbr>
+            <lb n="89"/>no dudo afírmar, <abbr>q'</abbr>el <abbr>q'</abbr>tal consulto fue algun mínístro <abbr>q'</abbr>el demonío tomo <abbr>p<hi rend="superscript">a</hi></abbr>
+            <lb n="90"/>acabar de borrar de estos pobres la poca notíçía, <abbr>q'</abbr>tíenen de nuestra <abbr>S<hi rend="superscript">ta</hi>.</abbr> fee  
+            <lb n="91"/><abbr>porq'</abbr> que otra cosa se síguíera. desto mas: <abbr>q'</abbr> despues de íngentíssímo trabaxo, esto -
+            <lb n="92"/>es dado <abbr>q'</abbr>se llegase a conseguír, saber la doctrína chrístíana como papagayos
+            <lb n="93"/>sín íntelígençía alguna de lo<abbr>q'</abbr> auían aprendído. yo quísíera, <abbr>q'</abbr>me díxera el
+            <lb n="94"/><abbr>q<hi rend="superscript">e</hi></abbr>tal íntento, <abbr>q'</abbr>ubíera sacado, de <abbr>q'</abbr> a el sela ubíeran enseñado en lengua he
+            <lb n="95" break="no"/>brea, o gríega, mas <abbr>q'</abbr> desesperarse <abbr>p<hi rend="superscript">a</hi>.</abbr> cogerla de memoría, y despues de to -
+            <lb n="96" break="no"/>do eso, se quedara <foreign xml:lang="la">tan quam tabula rasa</foreign>. sín saber lo <abbr>q'</abbr>se auía aprendído. procu -
+            <lb n="97" break="no"/>ren los <abbr>q'</abbr>tratan de admínístraçíones saber la lengua de su partído <abbr>q'</abbr>seramas
+            <lb n="98"/>façíl <abbr>q'</abbr>un hombre capaz, y docto, y <abbr>q'</abbr>sabe su oblígaçíon la aprenda, pues no
+            <lb n="99"/>tíene otra cosa <abbr>q'</abbr>hazer fuera de su admínístraçíon, <abbr>q'</abbr>no querer reduçír a todos
+            <lb n="100"/>los índíos, <abbr>q'</abbr>apenas tíenen tíempo para buscar su Vída, y sobretodo su rustí -
+            <lb n="101" break="no"/>çídad, y <abbr>q'</abbr>tampoco pueden dedícar del todo asus híjos ala enseñanza, <abbr>porq'</abbr>
+            <lb n="102"/>son sus píes, y manos, <abbr>p<hi rend="superscript">a</hi>.</abbr> ayudarlos desde <abbr>q'</abbr>empíezan á andar parabuscar
+            <lb n="103"/>lo <abbr>q'</abbr>han menester. yno andar entretenídos enfundar haçíendas deganado
+            <lb n="104"/>y cacaguatales, con grande molestía de los índíos, y menos cabo de su pobre -
+            <lb n="105" break="no"/>za, cosa tan Vedada, y justamente por su <abbr>Mag.</abbr> en sus leyes de índías. <abbr>q'</abbr>con
+            <lb n="106"/>eso tendran tíempo para todo. y les sobrara, y cumplíendo como deuen, y de
+            <lb n="107" break="no"/>fíende de el <abbr>íll<hi rend="superscript">mo</hi>.</abbr> <abbr>S<hi rend="superscript">or</hi>.</abbr> Montenegro en su Parrocho de índíos, no dudo, <abbr>q'</abbr>ten
+            <lb n="108" break="no"/>dran gran premío, desu Díuína <abbr>Mag.</abbr>
+        </ab>
+        <ab rend="indent">
+            <lb n="1"/><hi rend="large">N</hi>ímenos anadíe, haga fuerza eluertantos desatínos como en su gentílídad su -
+            <lb n="2" break="no"/>bíeron, y <abbr>q'</abbr>todauía conseruen algunos, o los mas de ellos, <abbr>porq'</abbr> síbíen ello bíen se
+            <lb n="3"/>míra mucho mayores los tuvíeron nuestros antepasados, y oy en día no faltan
+            <lb n="4"/>síendo gente mas capaz, y doctrínada, y cada día estamos víendo míl lastímas de
+            <lb n="5"/>los <abbr>q'</abbr>apostatan de la fee, pasandose al Judaísmo, a la secta de Mahoma, de lutero,
+            <lb n="6"/>y de caluíno. y mas comunmente las hechíçeras, <abbr>q'</abbr>tan contínuada mente castí -
+            <lb n="7" break="no"/>ga la <abbr>S<hi rend="superscript">ta</hi>.</abbr> ínquísíçíon, y tambíen vemos cada día los muchos abusos, y superstíçío -
+            <lb n="8" break="no"/>nes, <abbr>q'</abbr>se vian no solo entre gente rustíca; pero aun entre gente mas capaz
+            <lb n="9"/>y docta. y esto en donde la fee catholíca se halla mas floreçíente. pues <abbr>q'</abbr>mucho
+            <lb n="10"/><abbr>q'</abbr>mucho de todo esto se halle en la gente tan rústica, tan poco doctrínada, y tã tíer -
+            <lb n="11" break="no"/>na en la fee, <abbr>q'</abbr>aun no ha doçíentos años, <abbr>q'</abbr>la conoçen. pues aun todauía suele a -
+            <lb n="12" break="no"/>uer quíenes oyeron desus antepasados, los herrores <abbr>q'</abbr>tuuíeron en su gentílídad
+            <lb n="13"/>y <abbr>q'</abbr>les oyeron contar la felíçídad humana, hasu modo tenían, antes <abbr>q'</abbr>entrase
+            <lb n="14"/>el domínío delos españoles, pues como gente tan rustíca, no reparan en el
+            <lb n="15"/>bíen <abbr>q'</abbr>se les ha seguído, de entrar en el gremío de <abbr>N.</abbr> <abbr>S<hi rend="superscript">ta</hi>.</abbr> <abbr>M<hi rend="superscript">e</hi>.</abbr> yglesía, síno <abbr>q'</abbr>
+            <lb n="16"/>tan solamente haçen memoría delos maltratos, <abbr>q'</abbr>suelen tener con gente de
+            <lb n="17"/>mal alma, causando en sus malostratos, míl desesperaçíones en estos mísserables,
+    <pb f="3v" n="6" xml:id="pb-orig-3v-6" facs="#zone-pb-3v-6"/>
+        <lb n="18"/>y <abbr>q'</abbr>blasfemen el<abbr>S<hi rend="superscript">to</hi>.</abbr> nombre de Díos, y su <abbr>S<hi rend="superscript">ta</hi>.</abbr> fee catolíca ensus aduersídades
+        <lb n="19"/>y trabaxas y síello bíen se míra elconçíerto <abbr>q'</abbr>su elentener en sus republícas du -
+        <lb n="20" break="no"/>do <abbr>q'</abbr>aya naçíon alguna mas conçertada. pues entre ellos jamas se pueda
+        <lb n="21"/>deuda sín pagar, ní culpa sín castígar, <abbr>q'</abbr> merío yo de el conçíerto <abbr>q'</abbr>se pondera
+        <lb n="22"/>de las auejas ensus republícas, teníendo repartídos entre sí todos los cargos, y
+        <lb n="23"/>te quíos de todo el comun, ayudandose unos a otros, con tal su gezíon a los <abbr>q'</abbr> tí -
+        <lb n="24" break="no"/>enen nombrados por cabezas de sus calpules, y parçíalidades, <abbr>q'</abbr>apenas
+        <lb n="25"/>se hallara índío <abbr>q'</abbr>entre ellos no obedezca a su cabeza de calpul, en lo <abbr>q'</abbr>sele
+        <lb n="26"/>en carga, y sí tal caso seda todos se conjuran contra el a <abbr>q'</abbr>sea castígado.
+        <lb n="27"/>no dudo <abbr>q'</abbr>tíenen muchas cosas vítuperables, mas tambíen tíenen otras
+        <lb n="28"/>muy lo ables, y <abbr>q'</abbr>ojala se hallaran entre otras naçíones. todo quanto yo
+        <lb n="29"/>alcanzare escríuíre en estos escolíos, para dar la mayor notíçía <abbr>q'</abbr>
+        <lb n="30"/>pudíere desta gente, a los veníderos, y <abbr>q'</abbr>no ígnoren sus cosas. suponíen
+        <lb n="31" break="no"/>do como su põgo <abbr>q'</abbr>muchas nose saben, por el secreto tan grande <abbr>q'</abbr>entre
+        <lb n="32"/>sí guardan, de míedo el <abbr>P<hi rend="superscript">e</hi>.</abbr> o de el español. y espeçíalmente, de
+        <lb n="33"/>sus juntas, <abbr>q'</abbr>ellos suelen tener entresí. y mas sí son cosa de ydolatría esas
+        <lb n="34"/>es tal el secreto <abbr>q'</abbr>guardan <abbr>q'</abbr>ní el muchacho mas tonto, ay remedío, <abbr>q'</abbr>se
+        <lb n="35"/>descuíde en manífestarlo, y sola por congeturas, se suele rastrear
+        <lb n="36"/>algo.
+    </ab>
+</div>
+<div type="translation">
+    <pb f="1r" n="1" xml:id="pb-trans-1r-1" facs="#zone-pb-1r-1"/>
+        <docTitle rend="center">Scholia<anchor n="i" xml:id="note-t-i"/> to the Stories of the Origin of the Indians scholiated by <docAuthor>the Reverend Fray Francisco Ximénez, royally appointed<anchor n="ii" xml:id="note-t-ii"/> missionary priest<anchor n="iii" xml:id="note-t-iii"/> of Santo Tomás Chichicastenango<anchor n="iv" xml:id="note-t-iv"/>, of the holy Order of Preachers<anchor n="v" xml:id="note-t-v"/></docAuthor>, for the sake of greater awareness among ministers of the customs of the Indians</docTitle>
+
+        <head>Prologue</head>
+
+		<ab>It is true and well known to all who are familiar with Indians that they are the most irregular in their customs of all the peoples found on the globe; and as such, every day many men of good intellect find themselves mistaken<anchor n="1" xml:id="note-t-1"/> about their customs, for when they seem to have attained an understanding of who the Indians are, they find themselves at the beginning of their knowledge and understanding, such that everything they have acquired with their study and diligence in order to better govern them does not suffice in the cases that present themselves. There have been many who have sought to contribute to the understanding of the Indian in their histories, <hi rend="ital"><language ident="lat">summas</language></hi>, and other writings; but I think that what has happened to them is what will happen to all my writings, which is that though I have sought to bring to light what they are, in the end I think I will not have said anything at all.<anchor n="2" xml:id="note-t-2"/> Doctor Petrus Apianus<anchor n="3" xml:id="note-t-3"/> cosmographer of Emperor Charles V, in demarcating the island of Hispaniola, seeks to make them known to the world, saying that they are a people <hi rend="ital"><language ident="lat">in dando liberalissimi, in accipiendo cupidissimi</language></hi> (<hi rend="ital">generous in giving, avaricious in receiving</hi>), and that they spend all day going around a stick in circles. To some extent this manifests the natural inclination of the Indian, who in giving—I doubt that there be anyone more generous in giving, for who will there be who is not entirely possessed by God that, having but
+    <pb f="1v" n="2" xml:id="pb-trans-1v-2" facs="#zone-pb-1v-2"/>
+        half a <hi rend="ital"><language ident="spa">real</language></hi><anchor n="4" xml:id="note-t-4"/> with no hope of another, being in a state of extreme necessity, gives away even his own vital nourishment with more generosity than the Indian does? And though he lack for food, he can be seen celebrating festivities and performances with so many expenses, and as to those who have the wherewithal,<anchor n="5" xml:id="note-t-5"/> they go into ever greater debt in order to have these celebrations of baptisms and marriages. Nor is there a more avaricious and wretched people, for when inviting one another to their celebrations, and when one village invites another to its festivities, each host must correspond exactly in number and kind to what he had received as a guest. And should one fail to give just one banana fewer than owed, it is the subject of such passion that for that alone a friendship and relationship of many years can come to an end. It is because of this that what Apianus said is merely one contribution to our understanding of the Indian. So it seems to me that the most correct way of making known who the Indians are and their greater comprehension is what many men of good intellect have said, which is that to define the Indians with an adequate definition is to define them by contradictions. Because they are a people with whom everything is extremes, and opposites, and inverses. In the same way as what Apianus said. And continuing with that I say that they are a people: most strong in working, most lazy in not working, most voracious in eating, most frugal in not eating. Most rich in their goods, and extremely poor. And so on with the rest of their situation, and all this so generally, that one is the same as the other, the rich and the poor, the one who is <hi rend="ital">cacique</hi> or leader just like the <hi rend="ital">mazegual</hi>.<anchor n="6" xml:id="note-t-6"/> They are all the same, each as childish as the other. And so he spoke rightly who called them “children with beards.” And in truth they are like children in everything. As Saint Paul said of himself, of his youth,<anchor n="7" xml:id="note-t-7"/> so are all these childish ways, and as such their malicious acts do not have as much weight as those committed by other men belonging to other peoples, and although some will say, as our Father Noreña<anchor n="8" xml:id="note-t-8"/> says in his letter, that they commit great evils, of which there is no doubt, I will say that just as Our Lord God made up for what beasts lacked in skill with natural instinct for the sake of their preservation, so with these he has made up for what they have lacked for their preservation with instinct, which can be better called knowledge than understanding, because if not it seems to me that they would all already have been finished off by all these who pull them toward destruction and termination, taking advantage of their wretchedness to dare to do what they would not otherwise; I am saying they would neither be so audacious with their superiors nor with their equals. And so with these wretches,<anchor n="9" xml:id="note-t-9"/> others become sages; their ignorance makes others brave; their laziness makes others powerful; those who are otherwise incapable of anything will try to bring them to ruin<anchor n="10" xml:id="note-t-10"/> like one who is defenseless. For there is no black slave who is not audacious with them, and who does not mistreat them.</ab>
+        
+        <ab rend="indent">I understand well that all these stories<anchor n="11" xml:id="note-t-11"/> are children’s tales that make no sense; but although that is the judgment that we must make of them from our position, they should not be so judged with respect to those for whom, in proportion to their own understanding, they are as true as the truths of the Gospel are for us Catholics. Nor is it worth examining the inherent contradictions surrounding them, for with such a dearth of understanding they do not notice this. And here the evil of the infernal beast is made known, how he insinuated lies so tailored to their disposition as to have them even more fooled, and given that in these stories may be found not only these lies or illusions but also our Catholic truths, taught and believed by our Holy Catholic Faith, revealed by the Holy Spirit in sacred scripture. It is because of this that these stories should not be paid any attention with respect to the great deal of ground the devil has gained among these people; with these errors
+    <pb f="2r" n="3" xml:id="pb-trans-2r-3" facs="#zone-pb-2r-3"/>
+        that he has sown among them from the time of paganism. I consider these weeds<anchor n="12" xml:id="note-t-12"/> that the devil has sown among them to be as grass in vineyards,<anchor n="13" xml:id="note-t-13"/> that growth which everyone knows is the destruction of vines, and despite knowing this the vineyard owners content themselves with uprooting what they see, not noticing that it continues spreading unseen, and when they least expect it they find they have lost their vineyard; and it is not to be helped, for although they have seen some sprouts come forth, they think them weak, and that they will do no harm, not recognizing the damage in time, and then it becomes irremediable. Just so do I understand it to happen with these Indians and their errors with these weeds that the devil sowed among them in these stories of their origin. Which, upon hearing them every day, and seeing with their own eyes all the sprouts coming forth from their superstitions, most of them make light of the stories. Without noticing the origin and root from which they proceed, to seek the remedy in time. Our God is jealous<anchor n="14" xml:id="note-t-14"/> in his honor and worship, and does not permit company in his adorations, and so although it may seem to us a thing of little importance, it has great significance in terms of divine reverence.<anchor n="15" xml:id="note-t-15"/></ab>
+
+        <ab rend="indent">I have become convinced, seeing our Catholic truths cloaked in these mistakes, first, of what our<anchor n="16" xml:id="note-t-16"/> Fray Domingo de Vico says in chapter <num>101</num> of the second part of his <hi rend="ital"><language ident="lat">Theologia Indorum</language></hi><anchor n="17" xml:id="note-t-17"/> that these Indians descend from the ten tribes who were lost from among the Jews,<anchor n="18" xml:id="note-t-18"/> and who did not return to their homeland; and thus they preserved in their traditions all the events that the sacred text relates to us, and the devil went about tangling them up with many errors. And second, if they do not descend from those ten tribes, the devil, being so clever, guessing at the arrival of the Holy Spirit to this area, insinuated to them these lies wrapped in many Catholic truths which the Holy Spirit taught us in Sacred Scripture, so that when the Indians heard what the ministers of God’s word had to teach, and their works, about the incarnation of the Word, Mary Most Holy, and the other saints, they would settle more deeply into their errors, thinking that what was taught to them was the same as what they already were taught by the devil through their own priests. And the effect of this could be observed later, in errors brought about in this recently conquered Kingdom of Guatemala,<anchor n="19" xml:id="note-t-19"/> later embraced by all, that Hunahpu<anchor n="20" xml:id="note-t-20"/> was the God preached to them. And that Hun-Hunahpu <hi rend="ital"><language ident="lat">erat filius Dei</language></hi>.<anchor n="21" xml:id="note-t-21"/> And that Xuchinqueꜩali,<anchor n="22" xml:id="note-t-22"/> who is called Xquic in this language, was Mary Most Holy. And that Vahxaquicat was Saint John the Baptist. And that Huntihax was Saint Paul the Apostle. It all seemed like the nonsense that they had learned from the devil, so it was easy for him to persuade them. And since they are so incredulous and mistrustful of what the priests tell them, this is why I do not know if they entirely assent to our Catholic truths. Because the Indians are of such a quality that if another Indian like them tells them something, there is nothing more true to them, but if it is said by a priest or a Spaniard to whom they have total aversion, there is no way to get them to agree to what they say, and if they appear to agree, it is more out of fear than for any other reason. In this matter they are most defective, our Indian sons, and they are always of two minds<anchor n="23" xml:id="note-t-23"/> regarding what is told to them; you will see them diligently attending church more on the days that they celebrate than on the days of precept,<anchor n="24" xml:id="note-t-24"/> and it is the case that more so than devotions, they are far more satisfied by gatherings, where they have drums and trumpets and the noise of bells, because they are a most boisterous people, and if there is a <hi rend="ital"><language ident="myn">tun</language></hi><anchor n="25" xml:id="note-t-25"/> or dance in which some nonsense
+    <pb f="2v" n="4" xml:id="pb-trans-2v-4" facs="#zone-pb-2v-4"/>
+        or vestigial lore of theirs from their pagan times is performed, what I say—and I was counseled thus by a learned religious of exemplary conduct who had spent many years administering Indians and died very old, Reverend Father Juan de San José of my holy habit—is that these instruments they use, like the <hi rend="ital"><language ident="myn">tun</language></hi> and the big drum they call <hi rend="ital"><language ident="myn">cohom</language></hi> or <hi rend="ital"><language ident="myn">nimacohom</language></hi>. They have a pact with the devil in these instruments, and since they are funereal, only the devil could be the author of such instruments; and although the priests used to give them certain saints’ stories in their language to be sung to the <hi rend="ital"><language ident="myn">tun</language></hi>, to replace the stories they sang under paganism, nevertheless I understand that they sing this in public where the priest can hear them and then in secret they make sweet memories of their paganism. Based on these things, and many others that have come to my attention, I am attempting to assemble these scholia to their history, noting what is ancient history and citing the foregoing stories. And noting what pertains to our holy Catholic faith for the greater convenience of whoever wishes to take advantage of my work. Cautioning here and holding it to be true that unto this day they maintain the same errors and absurdities, and although it seems to be but a spark of that fire, there is much conflagration among them. And though in truth it will seem to many an impossible task to uproot these weeds from the whole, it will be no little service to God to try to uproot it tirelessly, with preaching and constant teaching, for to us is entrusted merely the clearing, planting, and irrigation of this field of the Church with the water of teaching, and to God the growth of these plants.<anchor n="26" xml:id="note-t-26"/> Even to him who does not reap any fruit from his work I guarantee many crowns of glory, such as are enjoyed by the Apostle James, on whose vigil I write this, many crowns of glory even without having been able to convert to the true faith more than seven Spaniards through his great and tireless work in his Apostolic office. For this seed of the holy Gospel is of such superior quality, that even if it all falls upon hard soil, never does the sower want for most abundant fruits from his field, which is true of no other field; if he loses it, he loses all, and he loses more who being the sower of the divine word becomes the sower of the earthly word.<anchor n="27" xml:id="note-t-27"/> I will briefly note all that I can regarding this history, making known many things about the Indians, not in order to show you their barbarity and brutality, but rather to move you toward compassion for these who are redeemed by the precious blood of Christ our Life,<anchor n="28" xml:id="note-t-28"/> for they are being lost; understanding above all that the principal reasons for not letting these absurdities go, and for the faith having not sat well with them, was because the law of God was planted here alongside so many scandals, deaths, and robberies and such turmoil and tumult, and having received it out of fear of death, as is well observed by His Excellency the Most Reverend<anchor n="29" xml:id="note-t-29"/> Fray Bartolomé de las Casas in his writings and disputes with Doctor Sepúlveda,<anchor n="30" xml:id="note-t-30"/> and the Very Reverend<anchor n="31" xml:id="note-t-31"/> Father Remesal<anchor n="32" xml:id="note-t-32"/> in his history, however much certain modern historians would like to bury this. And after having been so poorly planted, the faith has been watered even worse, for although some zealous ministers have sought to put their shoulders to the wheel, later the faith fades with the death or absence of these ministers who took care to water these plants well; and also because they have no place to learn, even<anchor n="33" xml:id="note-t-33"/> those who know how to read, so that they might spread the faith to the rest, for lack of books about the Catholic
+    <pb f="3r" n="5" xml:id="pb-trans-3r-5" facs="#zone-pb-3r-5"/>
+        faith in their language, other than the two parts of our Fray Domingo de Vico’s theology, and the catechism, which are very rarely found since they remain only in manuscript form, and I know from experience that the Indians who have had the good fortune to read them have derived much benefit for their souls, and if the aforementioned books had been printed, many or all could have enjoyed this benefit; and the misfortune of these poor ones has been such that, having brought so many absurdities before His Majesty, his ministers, and others who are not, no one has spoken of this; I do not doubt his piety and desire for the wellbeing of his subjects, and especially of these who are in his charge like children, and that he will not hesitate to spend what is necessary for this work, so that all may enjoy this benefit. This is all they had to consult, and so they did not learn Christian doctrine in the Castilian language, as they have accessed it thus far; I do not hesitate to affirm that he who taught it thusly was some minister who the devil took hold of in order to finish removing from these poor ones what little consciousness they have of our Holy faith so that it might be replaced by something else. What is more: after this most ingenious<anchor n="34" xml:id="note-t-34"/> work, he managed to get them to know Christian doctrine like parrots without any understanding of what they had learned. I would like him who tried this to tell me what he would have gotten out of it if they had taught it to him in Hebrew or Greek, besides exasperating him in order to cram it into his memory, and after all that he was left <hi rend="ital"><language ident="lat">tan quam tabula rasa</language></hi>.<anchor n="35" xml:id="note-t-35"/> Without knowing what he had learned. May those who handle administration try to learn the language of their jurisdiction; what could be easier than for a capable, learned man who knows his obligation to learn it? For he has nothing else to do outside of administration, and not wanting to relocate<anchor n="36" xml:id="note-t-36"/> all the Indians who hardly have time to make a living, and above all their backwardness, and neither can they entirely dedicate their children to learning, for they are their helping hands and feet from the moment they begin to walk to search for what they need. And not distracting themselves by founding cattle farms and cacao plantations, to the great detriment of the Indians and to the deepening<anchor n="37" xml:id="note-t-37"/> of their poverty, which was justly prohibited by His Majesty in his Laws of the Indies.<anchor n="38" xml:id="note-t-38"/> So with all this they will have time for everything. And they will have it excessively, and doing their duty as they should, and as is defended by His Excellency Montenegro in his <hi rend="ital"><language ident="spa">Parrocho de indios</language></hi>, <anchor n="39" xml:id="note-t-39"/> I do not doubt that they will receive a great reward from his Divine Majesty.<anchor n="40" xml:id="note-t-40"/></ab>
+        
+        <ab rend="indent">So shall anyone who makes the effort to look at such nonsense as that which arose under paganism and which some still sustain, or the majority of them do; for seen rightly, our own ancestors made even greater mistakes, and there are still many made today when people are more capable and better taught, and every day we are seeing great shame as people apostatize from the faith, crossing over to Judaism, to the sect of Mohammed, that of Luther, and that of Calvin. And even more commonly the witches,<anchor n="41" xml:id="note-t-41"/> whom the Holy Inquisition continuously punishes, and also daily we see the many abuses and superstitions observed among not just backwards people, but even among more capable and learned people. And this where the Catholic faith is found to be flourishing. But much of all this is found among people so backwards, so little taught, and so young and inexperienced in the faith, which they have known for less than two hundred years. So there still tend to be some who heard from their ancestors the errors that they held under paganism and who heard them tell of human happiness, which they had in their way, before the onset of the dominion of the Spaniards, for being such backwards people, they do not notice the goodness that has come along with them, of entering into the bosom of Holy Mother Church,<anchor n="42" xml:id="note-t-42"/> but rather exclusively remember the mistreatment that they tend to receive from people with corrupted souls, who by their poor treatment cause great despair among these miserable ones;
+    <pb f="3v" n="6" xml:id="pb-trans-3v-6" facs="#zone-pb-3v-6"/>
+        and so they blaspheme the Holy name of God and the Holy Catholic faith in their adversities and works, and looking at the harmony they tend to have in their republics,<anchor n="43" xml:id="note-t-43"/> I doubt there is a more harmonious people. For among them no debt goes unpaid, nor does any offense go unpunished; I laugh at how the harmony of the bees is praised in their republics, having divided up all common duties and tasks among themselves, helping one another, with such submission to those they have named leaders of their <hi rend="ital"><language ident="nah">calpules</language></hi><anchor n="44" xml:id="note-t-44"/> and factions that you will hardly find an Indian among them who does not obey his <hi rend="ital"><language ident="nah">calpul</language></hi> leader, in what he assigns him, and in such a case everyone conspires against him so that he is punished. I do not doubt that they have many reprehensible customs, but they also have others that are very laudable, that God willing will be found among other peoples. I will write in these scholia all that I can, to make these people known as well as I am able, for those to come, so that they will not be ignorant of their customs. Supposing, as I suppose, that many do not know about them, because of the great secrecy they observe among themselves out of fear of the priest or the Spaniard. And especially about their assemblies which they tend to have among themselves. And moreover if those are idolatrous, the secrecy they keep is such that there is no hope that even the most idiotic boy would carelessly reveal it, and only by speculation can anything be ascertained.</ab>
+</div>
+<div type="notes">
+    <note resp="editor" n="i" target="#note-t-i">
+        <ab>By categorizing this commentary as scholia, Ximénez drew on a long tradition of textual commentary, since the practice of compiling scholia in the margins of manuscripts dates to the 1st century BC and is generally associated with classical texts.</ab></note>
+    <note resp="editor" n="ii" target="#note-t-ii">
+        <ab>Here Ximénez references his appointment under "patronato real," or royal patronage, a system in which Church positions were appointed by the Spanish Crown. Beginning in 1508, the Crown held "jurisdictional powers within the Church in all of their colonial possessions" (Tarver and Slape 98).</ab></note>
+    <note resp="editor" n="iii" target="#note-t-iii">
+        <ab>"Cura doctrinero" was a title applied exclusively to a priest assigned to an Indigenous parish, as distinct from a "cura rector" or "parish priest" who presided over primarily white congregations. It has been rendered here as "missionary priest," since the distinction between established "parish" and developing "mission" survives in contemporary Christianity. However, the Spanish title emphasizes catechetical instruction (or indoctrination) above all.</ab></note>
+    <note resp="editor" n="iv" target="#note-t-iv">
+        <ab>The parish of Santo Tomás was built in 1545 in Chichicastenango, a K'iche' Maya settlement in the Guatemalan highlands. While the town was known locally as Chuilá, the official name of <hi rend="ital">Chichicastenango</hi> comes from the Nahuatl <hi rend="ital"><language ident="nah">Tzitzicastli</language></hi>, meaning "place of the <ref target="https://en.wikipedia.org/wiki/Urera_baccifera">nettles</ref>," and it is known by this name today.</ab></note>
+    <note resp="editor" n="v" target="#note-t-v">
+        <ab>The Order of Preachers (more commonly known as the Dominican Order) is a Catholic religious order founded by Saint Dominic de Guzmán during the Albigensian Crusade and approved by Pope Honorius III in 1216. The order's mission centers around intellectual and educational activity in support of orthodox Catholic teaching.</ab></note>
+    <note resp="editor" n="1" target="note-t-1">
+        <ab>Here Ximénez has written <hi rend="ital"><language ident="spa">desalinados</language></hi> (<hi rend="ital"><language ident="spa">desaliñados</language></hi>, "unkempt"), which does not fit within the context of the sentence. The translation reflects the possibility that he meant to write <hi rend="ital"><language ident="spa">desatinados</language></hi> ("mistaken"), but failed to cross the T. He also uses the word <hi rend="ital"><language ident="spa">desatinos</language></hi> ("mistakes") to describe K’iche’ beliefs elsewhere in the prologue, in the third paragraph.</ab></note>
+    <note resp="editor" n="2" target="note-t-2">
+        <ab>This affected modesty recalls St. Thomas Aquinas’s characterization of his own work as mere “straw” (<hi rend="ital"><language ident="lat">mihi videtur ut palea</language></hi>).</ab></note>
+    <note resp="editor" n="3" target="note-t-3">
+        <ab>“<hi rend="ital"><language ident="lat">In dando liberalissimi, cupidissimique... Alij defunctos cum aqua victuque inhumant: alij vero morte luctantes in bombiceis retiaculis inter duas arbores in sylvam ingentem, apposito victu, suspendunt, &amp; totam diem circa suspensum saltando consumunt</language></hi>” (Apianus 30).</ab></note>
+    <note resp="editor" n="4" target="note-t-4">
+        <ab>While the <hi rend="ital"><language ident="spa">real</language></hi> was the basis of the Spanish monetary system from the 14th to the mid-19th century, Ximénez would have been specifically referring to the <hi rend="ital"><language ident="spa">real de plata</language></hi>, or silver <hi rend="ital"><language ident="spa">real</language></hi>, which served as the currency of the Spanish colonies throughout America and the Philippines during his lifetime.</ab></note>
+    <note resp="editor" n="5" target="note-t-5">
+        <ab>Special thanks to Gustavo Pellón for his assistance in translating this phrase.</ab></note>
+    <note resp="editor" n="6" target="note-t-6">
+        <ab>In its Taíno-Arawak origins, the term <hi rend="ital">cacique</hi> designated a chief or leader. It came to be used more broadly in the Spanish language for the leader of any Indigenous community, including the Maya communities Ximénez is writing about here (DLE/RAE). The term <hi rend="ital">mazegual</hi> (today <hi rend="ital">macegual</hi> or <hi rend="ital">macehual</hi>) comes from the Nahuatl term <hi rend="ital"><language ident="nah">macehualli</language></hi>, a term roughly equivalent to “commoner” and originally used for a member of the <hi rend="ital"><language ident="nah">mācēhualtin</language></hi> social class under the Aztec (Mexica) Empire. In Spanish, it came to mean a peasant, worker, or servant (DLE/RAE). Though neither <hi rend="ital">cacique</hi> nor <hi rend="ital">mazegual</hi> are words that Maya communities would use for themselves, Ximénez here is drawing on a Spanish imperial vocabulary that imported and resignified concepts from various Indigenous communities across centuries of contact.</ab></note>
+    <note resp="editor" n="7" target="note-t-7">
+        <ab>See 1 Corinthians 13:11: “When I was a child, I spoke like a child, I thought like a child, I reasoned like a child; when I became an adult, I put an end to childish ways” (NRSVCE).</ab></note>
+    <note resp="editor" n="8" target="note-t-8">
+        <ab>This is a reference to material bound together with the <hi rend="ital"><language ident="myn">Popol Wuj</language></hi> manuscript and the <hi rend="ital"><language ident="spa">Escolios</language></hi> in Ayer MS 1515 at the Newberry Library. Included in the section entitled <hi rend="ital"><language ident="spa">Tratado segundo...</language></hi> is a copy of a letter from Fray Alonso de Noreña dated 25 February 1581, responding to Fray Diego Ferrano, the vicar of Tecutzilan in the Province of México, regarding the sacrament of confession in Indigenous mission territory.</ab></note>
+    <note resp="editor" n="9" target="note-t-9">
+        <ab>The word Ximénez uses for the Indigenous here, <hi rend="ital"><language ident="spa">miserables</language></hi> (“wretches”), designated a class of poor and destitute people granted protection under medieval Spanish law. The New Laws of 1542 used this same designation for Indigenous peoples, positioning them as easily exploited subjects who required the Crown’s “protection,” codified in the office of the <hi rend="ital"><language ident="spa">Protectoría de Indios</language></hi> (“Protectorate of the Indians”) (Kellogg and Ruiz Medrano 4).</ab></note>
+    <note resp="editor" n="10" target="note-t-10">
+        <ab>Here, Ximénez uses the colloquial expression <hi rend="ital"><language ident="spa">tirar al codillo</language></hi> (literally "to throw to one’s elbow"), meaning to try to ruin someone (DLE/RAE).</ab></note>
+    <note resp="editor" n="11" target="note-t-11">
+        <ab>The “stories” to which Ximénez refers here are the K’iche’ Maya mythological and historical narratives now known as the <hi rend="ital"><language ident="myn">Popol Wuj</language></hi>, which he copied, translated, and annotated in this manuscript.</ab></note>
+    <note resp="editor" n="12" target="note-t-12">
+        <ab>Ximénez uses the terms <hi rend="ital"><language ident="spa">mala semilla</language></hi> (“bad seed”) and <hi rend="ital"><language ident="spa">cizaña</language></hi> (“weed” or “tares”), both of which are used in Spanish translations of the Parable of the Weeds among Wheat related in Matthew 13:24-30, in which Christ speaks of a man’s enemy sowing weeds in his field of wheat. The idiom <hi rend="ital"><language ident="spa">sembrar cizaña</language></hi> (literally “to sow weeds”), meaning to stir up trouble, derives from this parable.</ab></note>
+    <note resp="editor" n="13" target="note-t-13">
+        <ab>See John 15:1–8, which uses the image of a vine for the Church.</ab></note>
+    <note resp="editor" n="14" target="note-t-14">
+        <ab>“<hi rend="ital"><language ident="spa">Zelador</language></hi>: a zealous, or a jealous Person” (Stevens 406).</ab></note>
+    <note resp="editor" n="15" target="note-t-15">
+        <ab>Ximénez uses the term <hi rend="ital"><language ident="spa">acatamiento</language></hi>, which now means submission to authority (DLE/RAE) in a generic sense, but is used here to encompass the obedience rendered specifically to God. A lexicographer contemporary to Ximénez defined <hi rend="ital"><language ident="spa">acatamiento</language></hi> in this sense as “Reverence, Respect, Honour” (Stevens 6).</ab></note>
+    <note resp="editor" n="16" target="note-t-16">
+        <ab>Ximénez calls his fellow Dominican priests, including Vico, by the title of “<hi rend="ital"><language ident="spa">Nuestro Padre</language></hi>” (literally “our father”) to distinguish them from the priests he cites from outside of the order.</ab></note>
+    <note resp="editor" n="17" target="note-t-17">
+        <ab>Domingo de Vico’s <hi rend="ital"><language ident="lat">Theologia Indorum</language></hi> (1552–1554) is a lengthy theological manuscript written in K’iche’ for the purpose of evangelizing the highland Maya.</ab></note>
+    <note resp="editor" n="18" target="note-t-18">
+        <ab>Ximénez and Vico endorsed the then-popular theory that the indigenous peoples of the Americas were descendants of the ten “Lost Tribes” of Israel, whose deportation from the Kingdom of Samaria after its conquest by Shalmaneser V of Assyria is chronicled in the biblical Second Book of Kings.</ab></note>
+    <note resp="editor" n="19" target="note-t-19">
+        <ab>The <hi rend="ital"><language ident="spa">Reino</language></hi> or Kingdom of Guatemala, also called the <hi rend="ital"><language ident="spa">Capitanía General</language></hi> or Captaincy General of Guatemala, was a division of the Viceroyalty of New Spain from 1542–1821.</ab></note>
+    <note resp="editor" n="20" target="note-t-20">
+        <ab>In this passage, Ximénez recounts an incident from the first years of Dominican missionary activity in Guatemala (in the 1530s), in which an Indigenous “pseudo-prophet” preached equivalence between K’iche’ Maya deities and Christian figures. He also included this incident in his 1715 <hi rend="ital"><language ident="spa">Historia de la provincia</language></hi> (57).</ab></note>
+    <note resp="editor" n="21" target="note-t-21">
+        <ab><hi rend="ital"><language ident="lat">Erat filius Dei</language></hi> is Latin for “was the son of God.”</ab></note>
+    <note resp="editor" n="22" target="note-t-22">
+        <ab>Again, Ximénez equates a Nahua concept with a K’iche one, equating the Nahua goddess Xōchiquetzal (mother of Quetzalcoatl) with the Maya goddess Ixkik’ (mother of Junajpu and Ixbalanke) while arguing that both had been erroneously equated with the Christian figure of Mary (mother of Jesus Christ).</ab></note>
+    <note resp="editor" n="23" target="note-t-23">
+        <ab>Ximénez uses the phrase <hi rend="ital"><language ident="spa">estar con dos corazones</language></hi>, literally “being of two hearts.” While this seems to be a quirk of Ximénez’s rather than a common idiom, “of two minds” is the proper idiomatic rendering in English.</ab></note>
+    <note resp="editor" n="24" target="note-t-24">
+        <ab>The days of precept, now known as holy days of obligation, are the feast days on which all Catholics are obliged to attend Mass other than Sundays. The term “days of precept” refers to the fact that this obligation is laid out in the first of the five Precepts of the Catholic Church, considered to be an addendum to the Ten Commandments.</ab></note>
+    <note resp="editor" n="25" target="note-t-25">
+        <ab>Here Ximénez uses the K’iche’ word for drum, <hi rend="ital"><language ident="myn">tun</language></hi>, metonymically to refer to the dances at which it was played.</ab></note>
+    <note resp="editor" n="26" target="note-t-26">
+        <ab>See 1 Corinthians 3:7, “So neither the one who plants nor the one who waters is anything, but only God who gives the growth” (NRSVCE).</ab></note>
+    <note resp="editor" n="27" target="note-t-27">
+        <ab>Special thanks to Gustavo Pellón for his assistance in translating this phrase.</ab></note>
+    <note resp="editor" n="28" target="note-t-28">
+        <ab>Here Ximénez uses the phrase <hi rend="ital">Xpto. Va. Na.</hi>, in which <hi rend="ital">Xpto</hi>. is a common abbreviation for the name of Christ in Greek (“<hi rend="ital">Christos</hi>,” <hi rend="ital">Χριστός</hi>) and <hi rend="ital">Va. Na.</hi> is short for <hi rend="ital">Vida Nuestra</hi>, “Our Life.”</ab></note>
+    <note resp="editor" n="29" target="note-t-29">
+        <ab>The titles <hi rend="ital"><language ident="spa">Ilustrísimo</language></hi> and <hi rend="ital"><language ident="spa">Reverendísimo</language></hi> were used for a bishop in this time period. The former has been rendered as the equivalent episcopal title in English, “His Excellency,” rather than its literal meaning, “Most Illustrious.” The latter has been rendered literally, as “Most Reverend” continues to be in use for Catholic bishops (outside the United Kingdom and Commonwealth nations, where it is reserved for archbishops, akin to the Anglican system).</ab></note>
+    <note resp="editor" n="30" target="note-t-30">
+        <ab>This is a reference to the Junta de Valladolid, a debate on the Spanish treatment of Indigenous peoples held in 1550 at the Colegio de San Gregorio in Valladolid, Spain. Juan Ginés de Sepúlveda argued for the status quo, stating that the use of violence in the subjugation of Indigenous peoples was legitimate under just war theory. Bartolomé de las Casas argued that such violence was unjust based on the high degree of civilization found among Indigenous peoples, as compared with the great brutality of Spanish conduct in the Americas. Ximénez aligns himself here with Las Casas’ characterization of Spanish conduct, as well as his broader program of nonviolent evangelization.</ab></note>
+    <note resp="editor" n="31" target="note-t-31">
+        <ab>The title <hi rend="ital"><language ident="spa">Muy Reverendo</language></hi> or “Very Reverend” has a special use in the Dominican Order, where it is bestowed on those who hold the honorary title of <hi rend="ital"><language ident="lat">Sacrae Theologiae Magister</language></hi> or Master of Sacred Theology.</ab></note>
+    <note resp="editor" n="32" target="note-t-32">
+        <ab>Antonio de Remesal, O.P., <hi rend="ital"><language ident="spa">Historia de la Provincia de S. Vicente de Chiapa y Guatemala de la orden de ñro glorioso padre Sancto Domingo: escribense juntamente los principios de las demas provincias de esta religion de las Indias Occidentales, y lo secular de la gobernacion de Guatemala</language></hi>, 1619.</ab></note>
+    <note resp="editor" n="33" target="note-t-33">
+        <ab>Here Ximénez uses <hi rend="ital"><language ident="lat">saltin</language></hi>, a variant of <hi rend="ital"><language ident="lat">saltim</language></hi> (also <hi rend="ital"><language ident="lat">saltem</language></hi>), a Latin restrictive particle: “It serves to point out that which still remains or holds good, in spite of or by way of exception to something opposed to it” (Lewis and Short).</ab></note>
+    <note resp="editor" n="34" target="note-t-34">
+        <ab>Ximénez uses the cliché <hi rend="ital"><language ident="spa">ingentísimo trabajo</language></hi>, built on the adjective <hi rend="ital"><language ident="spa">ingénito</language></hi>, a variant of <hi rend="ital"><language ident="spa">ingenioso</language></hi> (Bluteau 88, 3).</ab></note>
+    <note resp="editor" n="35" target="note-t-35">
+        <ab>“<hi rend="ital"><language ident="lat">Tan quam tabula rasa</language></hi>” is  a misspelling of “<hi rend="ital"><language ident="lat">tamquam tabula rasa</language></hi>,” “like a blank slate.” Ximénez is sardonically manipulating Avicenna’s characterization, adopted by scholasticism, of the human intellect as a blank slate from birth.</ab></note>
+    <note resp="editor" n="36" target="note-t-36">
+        <ab>Ximénez uses the verb <hi rend="ital"><language ident="spa">reducir</language></hi>, or “reduce,” here in reference to the Spanish colonial practice of forcibly relocating Indigenous people into settlements modeled on Spanish towns. These settlements were generally known as <hi rend="ital"><language ident="spa">reducciones</language></hi>, or “reductions,” though in New Spain they were also called <hi rend="ital"><language ident="spa">congregaciones</language></hi>, or “congregations.”</ab></note>
+    <note resp="editor" n="37" target="note-t-37">
+        <ab>While <hi rend="ital"><language ident="spa">menoscabo</language></hi> literally means “lessening,” rather than “deepening,” the context indicates that Indigenous poverty is deepened rather than lessened by these agricultural practices. As such, this seems to be a double negative that is acceptable in Spanish but not in English.</ab></note>
+    <note resp="editor" n="38" target="note-t-38">
+        <ab>The term <hi rend="ital"><language ident="spa">Leyes de las Indias</language></hi>, or Laws of the Indies, refers to the entire body of laws promulgated by the Spanish Crown to govern its empire, but Ximénez is most likely referring specifically to the compilation published in 1681 under Carlos II. The compilation included the New Laws of 1542, which initially prohibited and ultimately only somewhat reformed the encomienda system of forced Indigenous labor. Ximénez is likely alluding to these laws here.</ab></note>
+    <note resp="editor" n="39" target="note-t-39">
+        <ab>Alonso (or Alfonso) de la Peña Montenegro, bishop of Quito, Ecuador and president of the Real Audiencia de Quito from 1653 to 1687, issued his five-volume <hi rend="ital"><language ident="spa">Itinerario para parrocos de indios, en que se tratan las materias mas particulares tocantes a ellos para su buena Administracion</language></hi> in manuscript form in 1666 (Locatelli 1). It was then published in print at Madrid in 1668 and at Antwerp in 1698 (3). A manual for the evangelization of indigenous peoples, it was used both among missionaries and pastors in his diocese and in judgments issued by the Real Audiencia de Quito. Evidently, it also circulated in New Spain as well.</ab></note>
+    <note resp="editor" n="40" target="note-t-40">
+        <ab>While <hi rend="ital"><language ident="spa">Su Majestad</language></hi> or His/Her Majesty generally refers to Spanish monarchs, <hi rend="ital"><language ident="spa">Su Divina Majestad</language></hi> or His Divine Majesty is a title reserved to God.</ab></note>
+    <note resp="editor" n="41" target="note-t-41">
+        <ab>Here Ximénez uses the term <hi rend="ital"><language ident="spa">hechicera</language></hi> rather than <hi rend="ital"><language ident="spa">bruja</language></hi> for “witch.” The two terms had distinct meanings and legal consequences: under the Inquisition, <hi rend="ital"><language ident="spa">hechicería</language></hi> was a broader term for superstition, marginalized medicinal practices, and magical ritual; <hi rend="ital"><language ident="spa">brujería</language></hi> was specifically applied to demonic activity, and therefore carried a far harsher punishment (Schlau 123–124).</ab></note>
+    <note resp="editor" n="42" target="note-t-42">
+        <ab>Here Ximénez uses the term <hi rend="ital"><language ident="spa">gremio</language></hi>, meaning “lap” (Stevens 204, 3), as the image for belonging to the Catholic Church. “<hi rend="ital"><language ident="spa">Por translación llamamos gremio, el amparo y refugio del que acoge a otro y le favorece: y el gremio de la Iglesia llamamos la congregación de los fieles, la comunión de los Santos, porque los ampara y abriga a todos</language></hi>” (Covarrubias 898, 1). In English, the image is rendered with the slightly altered formula “[enter into / return to] the bosom of Holy Mother Church.”</ab></note>
+    <note resp="editor" n="43" target="note-t-43">
+        <ab>Here Ximénez uses the term <hi rend="ital"><language ident="spa">repúblicas de indios</language></hi> to refer to <hi rend="ital"><language ident="spa">reducciones</language></hi> (see footnote 25). However, it should also be noted that the term <hi rend="ital"><language ident="spa">república de indios</language></hi> or “Indian republic” was distinct from the <hi rend="ital"><language ident="spa">república de españoles</language></hi> or “Spanish republic” under the laws governing New Spain. While the <hi rend="ital"><language ident="spa">república de españoles</language></hi>—that is, citizens considered Spanish under the law, including those of Spanish parentage born in America (<hi rend="ital"><language ident="spa">criollos</language></hi>) and a limited number of mixed-race people who could buy the privileges of Spanishness—was subject to a set of laws comparable to those that governed Castile itself, the Indigenous subjects of the <hi rend="ital"><language ident="spa">república de indios</language></hi> were far more stringently governed.</ab></note>
+    <note resp="editor" n="44" target="note-t-44">
+        <ab><hi rend="ital"><language ident="nah">Calpul</language></hi>, from the Nahuatl <hi rend="ital"><language ident="nah">calpulli</language></hi> meaning “large house” (DLE/RAE), used to designate an organizational unit roughly equivalent to a clan. Under the Aztec (Mexica) Empire, an <hi rend="ital"><language ident="nah">altepetl</language></hi> or city-state would contain many <hi rend="ital"><language ident="nah">calpulli</language></hi>, which would be assigned plots of land to cultivate and various organizational, sociopolitical, and religious tasks to perform. Again Ximénez is using Indigenous concepts adopted into Spanish upon contact elsewhere in New Spain and applying them to the K’iche’ Maya.</ab></note>
+</div>
+
+<div type="workscited">
+    <ref resp="editor" n="1" target="#ref-t-1">
+        <ab>Apianus, Petrus. <hi rend="ital">Cosmographia Petri Apiani</hi>. Edited by Frisius Gemma. Antwerp, 1564. <ref target="https://archive.org/details/cosmographiaapia00apia">Digitized by Archive.org</ref>.</ab></ref>
+    <ref resp="editor" n="2" target="#ref-t-2">
+        <ab>Bluteau, Raphael. <hi rend="ital">Diccionario castellano y portuguez para facilitar a los curiosos la noticia de la lengua latina, con el uso del vocabulario portuguez y latino...</hi> Lisboa, Pascoal da Sylva, 1721. Digital reproduction of the copy held at the Biblioteca de la Real Academia Española, 3-E-9. <ref target="https://ntlle.rae.es">Nuevo Tesoro Lexicográfico de la Lengua Española</ref>.</ab></ref>
+    <ref resp="editor" n="3" target="#ref-t-3">
+        <ab>Covarrubias, Sebastián de. <hi rend="ital">Tesoro de la lengua castellana o española</hi>. Madrid, Luis Sánchez, 1611. Digital reproduction of the copy held at the Biblioteca de la Real Academia Española, O-73. <ref target="https://ntlle.rae.es">Nuevo Tesoro Lexicográfico de la Lengua Española</ref>.</ab></ref>
+    <ref resp="editor" n="4" target="#ref-t-4">
+        <ab><ref target="https://dle.rae.es">Diccionario de la Lengua Española (DLE/RAE)</ref>. Real Academia Española.</ab></ref>
+    <ref resp="editor" n="5" target="#ref-t-5">
+        <ab>Kellogg, Susan and Ethelia Ruiz Medrano, editors. <hi rend="ital">Negotiation within Domination: New Spain’s Indian Pueblos Confront the Spanish State</hi>. University Press of Colorado, 2010.</ab></ref>
+    <ref resp="editor" n="6" target="#ref-t-6">
+        <ab>Lewis, Charlton T. and Charles Short. <hi rend="ital">A Latin Dictionary</hi>. Clarendon Press, 1879. <ref target="https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=saltem">Perseus Digital Library</ref>, Tufts University, 1999.</ab></ref>
+    <ref resp="editor" n="7" target="#ref-t-7">
+        <ab>Locatelli, Fabio G. “El Itinerario para párrocos de indios (1668) de Alonso de la Peña Montenegro (1596–1687).” Presentation for the “Diccionario Histórico de Derecho Canónico en Hispanoamérica y Filipinas. Siglos XVI–XVIII (DCH)” Project, Frankfurt, 13 June 2016.</ab></ref>
+    <ref resp="editor" n="8" target="#ref-t-8">
+        <ab>New Revised Standard Version Bible: Catholic Edition (NRSVCE). The Division of Christian Education of the National Council of the Churches of Christ in the United States of America, 1993.</ab></ref>
+    <ref resp="editor" n="9" target="#ref-t-9">
+        <ab>Quiroa, Néstor. “The Popol Vuh and the Dominican Religious Extirpation in Highland Guatemala: Prologues and Annotations of Fr. Francisco Ximénez.” <hi rend="ital">The Americas</hi> 67.4 (April 2011): 467–494.</ab></ref>
+    <ref resp="editor" n="10" target="#ref-t-10">
+        <ab>Schlau, Stacey. <hi rend="ital">Gendered Crime and Punishment: Women And/In the Hispanic Inquisitions</hi>. Brill, 2012.</ab></ref>
+    <ref resp="editor" n="11" target="#ref-t-11">
+        <ab>Stevens, John. <hi rend="ital">A new Spanish and English Dictionary. Collected from the Best Spanish Authors Both Ancient and Modern...</hi> Londres, George Sawbridge, 1706. Digital reproduction of the copy held at the Biblioteca de la Real Academia Española. <ref target="https://ntlle.rae.es/">Nuevo Tesoro Lexicográfico de la Lengua Española</ref>.</ab></ref>
+    <ref resp="editor" n="12" target="#ref-t-12">
+        <ab>Tarver, H. Micheal, and Emily Slape. <hi rend="ital">The Spanish Empire: A Historical Encyclopedia</hi>. ABC-CLIO, 2016.</ab></ref>
+    <ref resp="editor" n="13" target="#ref-t-13">
+        <ab>Ximénez, Francisco. “Prólogo.” <hi rend="ital">Escolios a las historias de el origen de los indios (1701–1703)</hi>, Ayer MS 1515, Newberry Library, Chicago. <ref target="https://library.osu.edu/projects/popolwuj/">Manuscript digitized as <hi rend="ital">Popol Wuj Online</hi>, Ohio State University</ref>.</ab></ref>
+    <ref resp="editor" n="14" target="#ref-t-14">
+        <ab>Ximénez, Francisco. <hi rend="ital">Historia de la provincia de San Vicente de Chiapa y Guatemala de la Orden de Predicadores</hi>. Tipografía Nacional, 1929. <ref target="https://archive.org/details/historiadelaprov01ximguat">Digitized by Archive.org</ref>.</ab></ref>
+    <ref resp="editor" n="15" target="#ref-t-15">
+        <ab>Ximénez, Francisco. <hi rend="ital">Las historias del origen de los indios de esta Provincia de Guatemala, traducidas de la lengua Quiché al Castellano para más comodidad de los Ministros del S. Evangelio, por el R.P.F. Francisco Ximénez. (Exactamente según el texto español); y los Escolios</hi>. Edited by Karl Scherzer. Vienna: Carlos Gerold e Hijo, 1857.</ab></ref>
+</div>
+</body>
+</text>
+</TEI>
+</xml>
